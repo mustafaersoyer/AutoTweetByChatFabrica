@@ -130,7 +130,7 @@ async function fetchGPTResponse(tweetText, tone, apiKey) {
             "Tweet: " + tweetText + " Please write a response to the tweet. ",
         },
       ],
-      temperature: 0.5,
+      temperature: 1,
       max_tokens: 600,
     }),
   });
