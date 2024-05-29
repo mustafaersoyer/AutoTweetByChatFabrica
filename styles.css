@@ -1,0 +1,13 @@
+.gpt-btn {
+  margin-top: 4px;
+  margin-right: 2px;
+  padding: 3px 6px;
+  background-color: #1da1f2;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.gpt-btn:hover {
+  background-color: #0d95e8;
+}
